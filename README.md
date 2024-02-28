@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SOSTENES SIMEON JEREMIAH
+- 👋 Hi, I’m FOREX CODE
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning HTML & CSS
 
